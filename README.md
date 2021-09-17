@@ -1,7 +1,26 @@
-### Hi there 👋
+### Hello，world 👋 This is JiangKai ✨✨
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning in Xi'dian university
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: xdjiangkai@foxmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xdjiangkai&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdjiangkai" />
+</a>
+
+
 
 <!--
-**xdjiangkai/xdjiangkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**icey-zhang/icey-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
